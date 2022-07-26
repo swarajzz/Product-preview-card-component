@@ -1,0 +1,141 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background-color: hsl(30, 38%, 92%);
+  line-height: 1;
+}
+
+.hero {
+  max-width: 60rem;
+  margin: 12rem auto;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  background-color: #fff;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.1);
+}
+
+.product {
+  margin: 3rem;
+}
+
+.container-img {
+  overflow: hidden;
+}
+
+.product-img {
+  height: 100%;
+  background-image: url("../images/image-product-desktop.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  transition: all 0.3s;
+}
+
+.product-img:hover {
+  transform: scale(1.1);
+}
+
+.product-classification {
+  text-transform: uppercase;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.4rem;
+  font-weight: 500;
+  color: hsl(228, 12%, 48%);
+  letter-spacing: 0.4rem;
+  margin-bottom: 1.6rem;
+}
+
+.product-name {
+  font-family: "Fraunces", serif;
+  font-size: 3.6rem;
+  color: hsl(212, 21%, 14%);
+  margin-bottom: 2.4rem;
+  font-weight: 700;
+}
+
+.product-info {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.4rem;
+  color: hsl(228, 12%, 48%);
+  line-height: 1.6;
+  margin-bottom: 2.4rem;
+  font-weight: 500;
+}
+
+.product-price {
+  margin-bottom: 3.2rem;
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  align-items: center;
+  gap: 1.6rem;
+}
+
+.discount-price {
+  color: hsl(158, 36%, 37%);
+  font-size: 3.2rem;
+  font-weight: 700;
+  font-family: "Fraunces", serif;
+}
+
+.original-price {
+  margin-right: auto;
+  font-size: 1.2rem;
+  font-weight: 500;
+  color: hsl(228, 12%, 48%);
+  text-decoration: line-through;
+}
+
+.btn {
+  display: inline-block;
+  border: none;
+  background-color: #3c8067;
+  color: #fff;
+  font-family: "MonteSerrat", sans-serif;
+  font-weight: 700;
+  width: 100%;
+  padding: 1.2rem;
+  text-align: center;
+  border-radius: 8px;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  gap: 1.2rem;
+  cursor: pointer;
+  font-size: 1.6rem;
+  transition: all 0.3s;
+}
+
+.btn:hover {
+  background-color: #36735d;
+}
+
+.btn-icon {
+  width: 2.4rem;
+  height: 2.4rem;
+}
+
+*:focus {
+  outline: none;
+  /* outline: 4px dotted #3c8067;
+  outline-offset: 8px; */
+  box-shadow: 0 0 0 0.6rem #b1ccc2;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
