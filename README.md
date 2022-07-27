@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Screenshot
 
-- Desktop View: [Desktop View](https://github.com/swarajzz)
-- Mobile View: [Mobile View](product-card-component-swarajzz.netlify.app)
+- Desktop View: [Desktop View](/screenshots/desktop_view.png)
+- Mobile View: [Mobile View](/screenshots/mobile_view.png)
 
 ### Links
 
@@ -64,6 +64,6 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/swarajzz)
-- Twitter - [@yourusername](https://www.twitter.com/Swarajzzz)
+- Website - [Swaraj](https://www.your-site.com)
+- Frontend Mentor - [@swarazz](https://www.frontendmentor.io/profile/swarajzz)
+- Twitter - [@Swarajzzz](https://www.twitter.com/Swarajzzz)
