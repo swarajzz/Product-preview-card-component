@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/swarajzz)
+- Solution URL: [jsfiddle](https://jsfiddle.net/h3q41rog/5/)
 - Live Site URL: [Netlify](product-card-component-swarajzz.netlify.app)
 
 
