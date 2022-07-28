@@ -28,7 +28,13 @@ Users should be able to:
 ### Screenshot
 
 - Desktop View: <p align="center>![Desktop View](/screenshots/desktop_view.png)</p>
-- Mobile View:  <p align="center>![Mobile View](/screenshots/mobile_view.png)</p>
+  <p align="center">
+    <img src="screenshots/desktop_view.png" alt="Image" />
+</p>
+- Mobile View:  
+    <p align="center">
+    <img src="screenshots/mobile_view.png" alt="Image"/>
+</p>
 
 ### Links
 
