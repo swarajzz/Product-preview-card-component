@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Screenshot
 
-- Desktop View: ![Desktop View](/screenshots/desktop_view.png)
-- Mobile View: ![Mobile View](/screenshots/mobile_view.png)
+- Desktop View: <p align="center>![Desktop View](/screenshots/desktop_view.png)</p>
+- Mobile View:  <p align="center>![Mobile View](/screenshots/mobile_view.png)</p>
 
 ### Links
 
