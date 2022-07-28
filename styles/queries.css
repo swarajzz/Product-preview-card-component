@@ -1,7 +1,7 @@
 @media (max-width: 42em) {
   .hero {
     max-width: 55rem;
-    margin: 10rem auto;
+    margin: 10rem auto 5rem auto;
     grid-template-columns: 1fr;
     grid-template-rows: 30rem auto;
   }
@@ -28,6 +28,10 @@
 
   .btn {
     font-size: 1.4rem;
+  }
+
+  .attribution a {
+    text-decoration: none;
   }
 }
 
